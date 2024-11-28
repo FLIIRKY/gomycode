@@ -1,0 +1,98 @@
+#wholething{
+    background-color: bisque;
+    text-decoration-color: black;
+    font-size: 20px;
+}
+#navbar{
+    background-color: black;
+    text-align: center;
+}
+#ulnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+    text-align: center;
+}
+  
+.ilnav{
+    float: left;
+    text-align: center;
+}
+  
+.ilnav{
+    display: block;
+    color: bisque;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #000000;
+    text-align: center;
+}
+#head{
+    text-align: center;
+}
+#home{
+    text-align: center;
+     
+}
+#about{
+    text-align: center;
+
+}
+#work{
+    
+    
+
+}
+#resume{
+    text-align: center;
+
+}
+#contact{
+
+}
+.title{
+    text-align: center;
+}
+#vid{
+    align-items: center; 
+    display: grid;
+    place-items: center;
+}
+
+
+
+
+.button-1 {
+  background-color: #000000;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+}
+.projectlink{
+    color: bisque;
+}
+
